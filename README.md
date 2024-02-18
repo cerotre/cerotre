@@ -4,9 +4,6 @@
 cerotre/cerotre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Soy **[cerotre](https://github.com/cerotre)**
-
 - **[WEB PRINCIPAL](https://cerotre.github.io)**
 - **[LOADBAR](https://cerotre.github.io/loadbar)**
 - **[CLICKER](https://cerotre.github.io/Clicker)**
