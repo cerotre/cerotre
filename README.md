@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Soy **[cerotre](https://github.com/cerotre)**
-![cerotre.](https://i.pinimg.com/originals/ab/73/11/ab73116c7ed36d053bfe766605e46f5d.jpg "cerotre")
+
 - **[WEB PRINCIPAL](https://cerotre.github.io)**
 - **[LOADBAR](https://cerotre.github.io/loadbar)**
 - **[CLICKER](https://cerotre.github.io/Clicker)**
@@ -17,4 +17,4 @@ Soy **[cerotre](https://github.com/cerotre)**
 - **[ValorantCMD](https://cerotre.github.io/ValorantCMD).**
 - **[caps](https://cerotre.github.io/caps).**
 - **[Tareas](https://cerotre.github.io/tareas).**
-
+![cerotre.](https://i.pinimg.com/originals/ab/73/11/ab73116c7ed36d053bfe766605e46f5d.jpg "🔥")
